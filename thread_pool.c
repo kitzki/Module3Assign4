@@ -90,6 +90,5 @@ int main() {
     // Let threads run tasks
     sleep(15);
 
-    // In a real program, you would signal threads to exit and join them
     return 0;
 }
